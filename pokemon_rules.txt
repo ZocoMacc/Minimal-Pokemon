@@ -1,0 +1,18 @@
++-----------------------------------------------+
+|           WELCOME TO MINIMAL POKEMON          |
+|-----------------------------------------------|
+|                   Game Rules:                 |
+|                                               |
+| 1. 2-player alternating game play.            |
+| 2. In each player's turn, they will have the  |
+|    option to (only one per turn):             |
+|       - Travel to a route in the game         |
+|       - Capture one random pokemon            |
+|       - Battle the other player               |
+| 3. While in battle, current player can:       |
+|       - Heal current pokemon                  |
+|       - Attack opponent's pokemon             |
+| 4. In a battle, The player that ends with all |
+|    defeated pokemon loses.                    |
+| 5. A player can carry up to 6 pokemon         |
++-----------------------------------------------+
